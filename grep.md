@@ -14,4 +14,3 @@ grep在平时的使用比较多， 它是一种强大的文本搜索工具， �
  ^$  查找所有的空行
  -e  查找多个模式    eg: grep -e "linux" -e "root" /etc/passwd 查找包含linux和root的
  -w  精确匹配        
- 
